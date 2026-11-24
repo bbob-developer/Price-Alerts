@@ -1,0 +1,27 @@
+Plan on using FinnGaurd for stock data API
+https://finnhub.io/register
+Should be able to include multiply stocks in each call
+Usage limits: 60/min, max 30/sec.
+
+
+
+Symbol Lookup
+Search for best-matching symbols based on your query. You can input anything from symbol, security's name to ISIN and Cusip.
+https://finnhub.io/docs/api/symbol-search
+
+
+Company Profile 2
+Get general information of a company. You can query by symbol, ISIN or CUSIP. 
+https://finnhub.io/docs/api/company-profile2
+
+
+Basic Financials
+Get company basic financials such as margin, P/E ratio, 52-week high/low etc.
+https://finnhub.io/docs/api/company-basic-financials
+
+
+Quote
+Get real-time quote data for US stocks.
+https://finnhub.io/docs/api/quote
+
+This is the main one that will be used.

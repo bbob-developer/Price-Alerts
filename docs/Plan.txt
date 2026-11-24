@@ -1,0 +1,12 @@
+API intergration
+API error handling
+Data error handling
+Data storage handling
+Background worker processing
+Automated build tests
+Discord bot intergration
+Discord message sending
+Discord command managment
+User customizble tracking via discord
+Github readme
+Let it run in docker
